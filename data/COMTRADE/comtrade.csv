@@ -1,0 +1,1155 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2018,2018,2018,0,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7406590324,,,4
+H4,2018,2018,2018,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,884504496,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9263097,,,0
+H4,2019,2019,2019,0,0,1,Import,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8568013876,,,4
+H4,2019,2019,2019,0,0,2,Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,870488512,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,4,Afghanistan,AFG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6655196,,,0
+H5,2017,2017,2017,0,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5293901931,,,4
+H5,2017,2017,2017,0,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2301340965,,,0
+H5,2018,2018,2018,0,0,1,Import,8,Albania,ALB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5941286949,,,4
+H5,2018,2018,2018,0,0,2,Export,8,Albania,ALB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2875859778,,,4
+H5,2017,2017,2017,0,0,1,Import,12,Algeria,DZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46053015989,,,4
+H5,2017,2017,2017,0,0,2,Export,12,Algeria,DZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35191117416,,,4
+H5,2017,2017,2017,0,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1478292965,,,4
+H5,2017,2017,2017,0,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,117965611,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,450004,,,4
+H5,2018,2018,2018,0,0,1,Import,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1609394249,,,4
+H5,2018,2018,2018,0,0,2,Export,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,129448151,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,20,Andorra,AND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,130172,,,0
+H5,2018,2018,2018,0,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,16036479575,,,4
+H5,2018,2018,2018,0,0,2,Export,24,Angola,AGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,42096736310,,,4
+H4,2017,2017,2017,0,0,1,Import,24,Angola,AGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15462313478,,,4
+H4,2017,2017,2017,0,0,2,Export,24,Angola,AGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,34904881109,,,4
+H3,2017,2017,2017,0,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,629819171,,,4
+H3,2017,2017,2017,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62390602,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,60186139,,,0
+H3,2018,2018,2018,0,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,569155190,,,4
+H3,2018,2018,2018,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25841081,,,0
+H3,2018,2018,2018,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22566642,,,0
+H3,2019,2019,2019,0,0,1,Import,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,568340063,,,4
+H3,2019,2019,2019,0,0,2,Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37400118,,,4
+H3,2019,2019,2019,0,0,3,Re-Export,28,Antigua and Barbuda,ATG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34839805,,,0
+H5,2018,2018,2018,0,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11460337555,,,4
+H5,2018,2018,2018,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19489068203,,,4
+H5,2019,2019,2019,0,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13649506476,,,4
+H5,2019,2019,2019,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19635202600,,,4
+H4,2017,2017,2017,0,0,1,Import,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8767799111,,,4
+H4,2017,2017,2017,0,0,2,Export,31,Azerbaijan,AZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15306018304,,,4
+H5,2018,2018,2018,0,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,65440966165,,,4
+H5,2018,2018,2018,0,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61558357420,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29476272,,,4
+H4,2017,2017,2017,0,0,4,Re-Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29975658,,,4
+H5,2019,2019,2019,0,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49125029975,,,4
+H5,2019,2019,2019,0,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,65114127659,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42221460,,,4
+H4,2017,2017,2017,0,0,1,Import,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,66899299586,,,4
+H4,2017,2017,2017,0,0,2,Export,32,Argentina,ARG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,58384194969,,,4
+H5,2017,2017,2017,0,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,228785255033,,,4
+H5,2017,2017,2017,0,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,230174787528,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,666480561,,,4
+H5,2018,2018,2018,0,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,235534849877,,,4
+H5,2018,2018,2018,0,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,252757844372,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,708773615,,,4
+H5,2019,2019,2019,0,0,1,Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,221481291585,,,4
+H5,2019,2019,2019,0,0,2,Export,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,266377225615,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,36,Australia,AUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,757873257,,,4
+H5,2017,2017,2017,0,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,166475080970,,,4
+H5,2017,2017,2017,0,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,159970530802,,,4
+H5,2018,2018,2018,0,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,184195200603,,,4
+H5,2018,2018,2018,0,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176991970620,,,4
+H5,2019,2019,2019,0,0,1,Import,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,176596131348,,,4
+H5,2019,2019,2019,0,0,2,Export,40,Austria,AUT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171532054962,,,4
+H4,2017,2017,2017,0,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3477450224,,,4
+H4,2017,2017,2017,0,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,473322277,,,4
+H4,2018,2018,2018,0,0,1,Import,44,Bahamas,BHS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3523973184,,,4
+H4,2018,2018,2018,0,0,2,Export,44,Bahamas,BHS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,524192922,,,4
+H5,2017,2017,2017,0,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17390888016,,,4
+H5,2017,2017,2017,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12485359226,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1397083453,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9729918,,,4
+H5,2018,2018,2018,0,0,1,Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20597535923,,,4
+H5,2018,2018,2018,0,0,2,Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14347737494,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1368873540,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,48,Bahrain,BHR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6217852,,,4
+H5,2017,2017,2017,0,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3893454903,,,4
+H5,2017,2017,2017,0,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2144962969,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,140385223,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1180242,,,0
+H5,2018,2018,2018,0,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4849934597,,,4
+H5,2018,2018,2018,0,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2383413799,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,208208647,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6352111,,,0
+H5,2019,2019,2019,0,0,1,Import,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5071644433,,,4
+H5,2019,2019,2019,0,0,2,Export,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2620069449,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214146058,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,51,Armenia,ARM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,585905,,,0
+H5,2019,2019,2019,0,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1580842477,,,4
+H5,2019,2019,2019,0,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,444085369,,,4
+H2,2017,2017,2017,0,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1599597494,,,4
+H2,2017,2017,2017,0,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,485387947,,,0
+H2,2017,2017,2017,0,0,3,Re-Export,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,230472101,,,0
+H2,2018,2018,2018,0,0,1,Import,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,1599911169,,,4
+H2,2018,2018,2018,0,0,2,Export,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,457709750,,,4
+H2,2018,2018,2018,0,0,3,Re-Export,52,Barbados,BRB,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,202385750,,,0
+H5,2017,2017,2017,0,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409024843777,,,4
+H5,2017,2017,2017,0,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,430092419275,,,4
+H5,2018,2018,2018,0,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,454713800856,,,4
+H5,2018,2018,2018,0,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468643264452,,,4
+H5,2019,2019,2019,0,0,1,Import,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426489084673,,,4
+H5,2019,2019,2019,0,0,2,Export,56,Belgium,BEL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,445214432962,,,4
+H5,2017,2017,2017,0,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1078213784,,,4
+H5,2017,2017,2017,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11742165,,,4
+H5,2019,2019,2019,0,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1117764475,,,4
+H5,2019,2019,2019,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26832552,,,4
+H5,2018,2018,2018,0,0,1,Import,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1070009014,,,4
+H5,2018,2018,2018,0,0,2,Export,60,Bermuda,BMU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,22912424,,,4
+H5,2017,2017,2017,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9367587902,,,4
+H5,2017,2017,2017,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8367078520,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,142666845,,,0
+H5,2018,2018,2018,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10000376722,,,4
+H5,2018,2018,2018,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9110355630,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,94083161,,,0
+H5,2019,2019,2019,0,0,1,Import,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9784563186,,,4
+H5,2019,2019,2019,0,0,2,Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8924397790,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,68,Bolivia (Plurinational State of),BOL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,126248350,,,0
+H5,2017,2017,2017,0,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10474058771,,,4
+H5,2017,2017,2017,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6367922271,,,4
+H5,2018,2018,2018,0,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11629555025,,,4
+H5,2018,2018,2018,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7182096317,,,4
+H5,2019,2019,2019,0,0,1,Import,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11159040331,,,4
+H5,2019,2019,2019,0,0,2,Export,70,Bosnia Herzegovina,BIH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6578243902,,,4
+H5,2018,2018,2018,0,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5921256033,,,4
+H5,2018,2018,2018,0,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6122376817,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1873535,,,0
+H5,2019,2019,2019,0,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6558523124,,,4
+H5,2019,2019,2019,0,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5238079155,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2612031,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10034,,,4
+H4,2017,2017,2017,0,0,1,Import,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5329441519,,,4
+H4,2017,2017,2017,0,0,2,Export,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5954788785,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,72,Botswana,BWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33709792,,,0
+H5,2017,2017,2017,0,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,150749493921,,,0
+H5,2017,2017,2017,0,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217739218466,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134010238,,,0
+H5,2018,2018,2018,0,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,181230498358,,,0
+H5,2018,2018,2018,0,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,239887754933,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7384405448,,,0
+H5,2019,2019,2019,0,0,1,Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,177347934749,,,0
+H5,2019,2019,2019,0,0,2,Export,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,225383482468,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,76,Brazil,BRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7018822667,,,0
+H5,2018,2018,2018,0,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,957739411,,,4
+H5,2018,2018,2018,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240911158,,,0
+H5,2018,2018,2018,0,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43985172,,,0
+H5,2019,2019,2019,0,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,985904343,,,4
+H5,2019,2019,2019,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244908836,,,0
+H5,2019,2019,2019,0,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38917523,,,0
+H4,2017,2017,2017,0,0,1,Import,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,913130452,,,4
+H4,2017,2017,2017,0,0,2,Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,277584960,,,0
+H4,2017,2017,2017,0,0,3,Re-Export,84,Belize,BLZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54792235,,,0
+H4,2017,2017,2017,0,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,571770024,,,4
+H4,2017,2017,2017,0,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,499714683,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180500,,,0
+H4,2018,2018,2018,0,0,1,Import,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,601388529,,,4
+H4,2018,2018,2018,0,0,2,Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,569112008,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,90,Solomon Isds,SLB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1196778,,,0
+H5,2017,2017,2017,0,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3084533899,,,4
+H5,2017,2017,2017,0,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5570575213,,,4
+H5,2018,2018,2018,0,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4164052430,,,4
+H5,2018,2018,2018,0,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6573636942,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,314681664,,,0
+H5,2019,2019,2019,0,0,1,Import,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5102674118,,,4
+H5,2019,2019,2019,0,0,2,Export,96,Brunei Darussalam,BRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7039083085,,,4
+H5,2017,2017,2017,0,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,34263590069,,,4
+H5,2017,2017,2017,0,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31588418276,,,4
+H5,2018,2018,2018,0,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,37927842259,,,4
+H5,2018,2018,2018,0,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,33787143989,,,4
+H5,2019,2019,2019,0,0,1,Import,100,Bulgaria,BGR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,37765114126,,,4
+H5,2019,2019,2019,0,0,2,Export,100,Bulgaria,BGR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,33454448049,,,4
+H5,2017,2017,2017,0,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19253455102,,,4
+H5,2017,2017,2017,0,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13878764485,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,74383530,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,316562,,,4
+H5,2018,2018,2018,0,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19353892913,,,4
+H5,2018,2018,2018,0,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,16694858193,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1259893283,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,842438,,,0
+H5,2019,2019,2019,0,0,1,Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18610892495,,,4
+H5,2019,2019,2019,0,0,2,Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18105885851,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380623079,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,104,Myanmar,MMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2206794,,,0
+H5,2019,2019,2019,0,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,887018854,,,4
+H5,2019,2019,2019,0,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180717200,,,4
+H4,2017,2017,2017,0,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,783299126,,,4
+H4,2017,2017,2017,0,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,149406437,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1825512,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5154,,,0
+H4,2018,2018,2018,0,0,1,Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,793512239,,,4
+H4,2018,2018,2018,0,0,2,Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,169071156,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8746679,,,0
+H4,2018,2018,2018,0,0,4,Re-Import,108,Burundi,BDI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32659,,,0
+H5,2017,2017,2017,0,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34234849200,,,4
+H5,2017,2017,2017,0,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29239993900,,,4
+H5,2018,2018,2018,0,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38408911900,,,4
+H5,2018,2018,2018,0,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33726141400,,,4
+H5,2019,2019,2019,0,0,1,Import,112,Belarus,BLR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,39476679200,,,4
+H5,2019,2019,2019,0,0,2,Export,112,Belarus,BLR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32955122400,,,4
+H5,2017,2017,2017,0,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14283414116,,,4
+H5,2017,2017,2017,0,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11278127964,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29814300,,,4
+H5,2018,2018,2018,0,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17489096677,,,4
+H5,2018,2018,2018,0,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12700279675,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9138532,,,4
+H5,2019,2019,2019,0,0,1,Import,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20278818285,,,4
+H5,2019,2019,2019,0,0,2,Export,116,Cambodia,KHM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14824722293,,,4
+H4,2017,2017,2017,0,0,1,Import,120,Cameroon,CMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5183629302,,,4
+H4,2017,2017,2017,0,0,2,Export,120,Cameroon,CMR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3264185171,,,4
+H5,2017,2017,2017,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,433045052733,,,0
+H5,2017,2017,2017,0,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,420074382189,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,34904348702,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3107452511,,,0
+H5,2018,2018,2018,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,459947610210,,,0
+H5,2018,2018,2018,0,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,450382382408,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35413567523,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3370315546,,,0
+H5,2019,2019,2019,0,0,1,Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,453359841430,,,0
+H5,2019,2019,2019,0,0,2,Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,446079889867,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36253803820,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,124,Canada,CAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51509515,,,0
+H5,2019,2019,2019,0,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,789705845,,,4
+H5,2019,2019,2019,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61879312,,,0
+H4,2017,2017,2017,0,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,793599019,,,4
+H4,2017,2017,2017,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49935302,,,4
+H4,2018,2018,2018,0,0,1,Import,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,814604296,,,4
+H4,2018,2018,2018,0,0,2,Export,132,Cabo Verde,CPV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,75270566,,,4
+H4,2017,2017,2017,0,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,418721339,,,4
+H4,2017,2017,2017,0,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,196990937,,,4
+H4,2018,2018,2018,0,0,1,Import,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,384386438,,,4
+H4,2018,2018,2018,0,0,2,Export,140,Central African Rep.,CAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54264098,,,4
+H5,2017,2017,2017,0,0,1,Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21316199950,,,4
+H5,2017,2017,2017,0,0,2,Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11741036786,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,328997744,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,144,Sri Lanka,LKA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5343,,,0
+H5,2017,2017,2017,0,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,65257275661,,,4
+H5,2017,2017,2017,0,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68858401595,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13404108,,,4
+H5,2018,2018,2018,0,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,74187323277,,,4
+H5,2018,2018,2018,0,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,75481713821,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16714151,,,4
+H5,2019,2019,2019,0,0,1,Import,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69591297855,,,4
+H5,2019,2019,2019,0,0,2,Export,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69681396828,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,152,Chile,CHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16431042,,,4
+H5,2017,2017,2017,0,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1843792938795,,,4
+H5,2017,2017,2017,0,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2263370504301,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132369371926,,,4
+H5,2018,2018,2018,0,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2134982614989,,,4
+H5,2018,2018,2018,0,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2494230194966,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,146381811975,,,4
+H5,2019,2019,2019,0,0,1,Import,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2068950254597,,,4
+H5,2019,2019,2019,0,0,2,Export,156,China,CHN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2498569865637,,,4
+H5,2017,2017,2017,0,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,46050188812,,,4
+H5,2017,2017,2017,0,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37766321060,,,4
+H5,2018,2018,2018,0,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,51230566648,,,4
+H5,2018,2018,2018,0,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41831520220,,,4
+H5,2019,2019,2019,0,0,1,Import,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,52695881703,,,4
+H5,2019,2019,2019,0,0,2,Export,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39489359461,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,170,Colombia,COL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,432666478,,,4
+H5,2018,2018,2018,0,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,229710910,,,4
+H5,2018,2018,2018,0,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46214060,,,4
+H5,2019,2019,2019,0,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,201191155,,,4
+H5,2019,2019,2019,0,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49024220,,,4
+H4,2017,2017,2017,0,0,1,Import,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,209132422,,,4
+H4,2017,2017,2017,0,0,2,Export,174,Comoros,COM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38411838,,,4
+H5,2018,2018,2018,0,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3485609079,,,4
+H5,2018,2018,2018,0,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11155029324,,,4
+H5,2019,2019,2019,0,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2242427608,,,4
+H5,2019,2019,2019,0,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5575942320,,,4
+H4,2017,2017,2017,0,0,1,Import,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4560299566,,,4
+H4,2017,2017,2017,0,0,2,Export,178,Congo,COG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8251984388,,,4
+H4,2017,2017,2017,0,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5803107776,,,4
+H4,2017,2017,2017,0,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12295708443,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,337993093,,,0
+H4,2018,2018,2018,0,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7930392931,,,4
+H4,2018,2018,2018,0,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20004284687,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,161825679,,,0
+H4,2019,2019,2019,0,0,1,Import,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8824801939,,,4
+H4,2019,2019,2019,0,0,2,Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13382299169,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,180,Dem. Rep. of the Congo,COD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,172085917,,,0
+H5,2017,2017,2017,0,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16352350364,,,4
+H5,2017,2017,2017,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11296640428,,,4
+H5,2018,2018,2018,0,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16563019255,,,4
+H5,2018,2018,2018,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11251781448,,,4
+H5,2019,2019,2019,0,0,1,Import,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16106274382,,,4
+H5,2019,2019,2019,0,0,2,Export,188,Costa Rica,CRI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11451993076,,,4
+H5,2017,2017,2017,0,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,24512646924,,,4
+H5,2017,2017,2017,0,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15732485216,,,4
+H5,2018,2018,2018,0,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28113089203,,,4
+H5,2018,2018,2018,0,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17210469290,,,4
+H5,2019,2019,2019,0,0,1,Import,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28004414329,,,4
+H5,2019,2019,2019,0,0,2,Export,191,Croatia,HRV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17063049815,,,4
+H5,2017,2017,2017,0,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9308162125,,,4
+H5,2017,2017,2017,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3360377370,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1961072191,,,0
+H5,2018,2018,2018,0,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10812572215,,,4
+H5,2018,2018,2018,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5065369407,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3197345911,,,0
+H5,2019,2019,2019,0,0,1,Import,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9179162817,,,4
+H5,2019,2019,2019,0,0,2,Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3520899557,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,196,Cyprus,CYP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2064433833,,,0
+H5,2017,2017,2017,0,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,162898931578,,,4
+H5,2017,2017,2017,0,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,182231360523,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,203,Czechia,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9446,,,0
+H5,2018,2018,2018,0,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,184924023432,,,4
+H5,2018,2018,2018,0,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,202521577709,,,4
+H5,2019,2019,2019,0,0,1,Import,203,Czechia,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,179273065047,,,4
+H5,2019,2019,2019,0,0,2,Export,203,Czechia,CZE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,199469710335,,,4
+H5,2019,2019,2019,0,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2904571635,,,4
+H5,2019,2019,2019,0,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,851648437,,,4
+H4,2017,2017,2017,0,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3060069912,,,4
+H4,2017,2017,2017,0,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,726264608,,,4
+H4,2018,2018,2018,0,0,1,Import,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3278030278,,,4
+H4,2018,2018,2018,0,0,2,Export,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,952223706,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,204,Benin,BEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138073571,,,0
+H5,2017,2017,2017,0,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,92117788022,,,4
+H5,2017,2017,2017,0,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101434430887,,,4
+H5,2018,2018,2018,0,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101663501456,,,4
+H5,2018,2018,2018,0,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,108523101941,,,4
+H5,2019,2019,2019,0,0,1,Import,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97209693724,,,4
+H5,2019,2019,2019,0,0,2,Export,208,Denmark,DNK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,109991554571,,,4
+H5,2017,2017,2017,0,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19524253471,,,4
+H5,2017,2017,2017,0,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8855644902,,,4
+H5,2018,2018,2018,0,0,1,Import,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,22181079864,,,4
+H5,2018,2018,2018,0,0,2,Export,214,Dominican Rep.,DOM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9395611281,,,4
+H5,2017,2017,2017,0,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19844243617,,,4
+H5,2017,2017,2017,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19092352242,,,4
+H5,2018,2018,2018,0,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23019652623,,,4
+H5,2018,2018,2018,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21606133822,,,4
+H5,2019,2019,2019,0,0,1,Import,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20277091794,,,4
+H5,2019,2019,2019,0,0,2,Export,218,Ecuador,ECU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22329378889,,,4
+H5,2017,2017,2017,0,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10571509382,,,4
+H5,2017,2017,2017,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5760015207,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7843217,,,0
+H5,2018,2018,2018,0,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,11829783403,,,4
+H5,2018,2018,2018,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5904627045,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9574189,,,0
+H5,2019,2019,2019,0,0,1,Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12017559344,,,4
+H5,2019,2019,2019,0,0,2,Export,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5943316474,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,222,El Salvador,SLV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12410363,,,0
+H4,2017,2017,2017,0,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15758882146,,,4
+H4,2017,2017,2017,0,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2305900977,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,353914020,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3717766,,,0
+H4,2018,2018,2018,0,0,1,Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14985595756,,,4
+H4,2018,2018,2018,0,0,2,Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1548554591,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,258909023,,,0
+H4,2018,2018,2018,0,0,4,Re-Import,231,Ethiopia,ETH,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1226007,,,4
+H5,2017,2017,2017,0,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17372913325,,,4
+H5,2017,2017,2017,0,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15387735462,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16526931,,,4
+H5,2018,2018,2018,0,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19826320836,,,4
+H5,2018,2018,2018,0,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17851477710,,,0
+H5,2018,2018,2018,0,0,3,Re-Export,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17813246406,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15707654,,,4
+H5,2019,2019,2019,0,0,1,Import,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,18664163270,,,4
+H5,2019,2019,2019,0,0,2,Export,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16818678297,,,0
+H5,2019,2019,2019,0,0,3,Re-Export,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16778917157,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,233,Estonia,EST,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16096732,,,4
+H5,2017,2017,2017,0,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2419936788,,,4
+H5,2017,2017,2017,0,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,955613495,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380277139,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1956505,,,4
+H5,2018,2018,2018,0,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2719590986,,,4
+H5,2018,2018,2018,0,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1041040355,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,470341904,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,411377,,,4
+H5,2019,2019,2019,0,0,1,Import,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2734304428,,,4
+H5,2019,2019,2019,0,0,2,Export,242,Fiji,FJI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1032914403,,,4
+H5,2017,2017,2017,0,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,70100319875,,,4
+H5,2017,2017,2017,0,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,67280640848,,,4
+H5,2018,2018,2018,0,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,78352161411,,,4
+H5,2018,2018,2018,0,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,75258290459,,,4
+H5,2019,2019,2019,0,0,1,Import,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,73719857019,,,4
+H5,2019,2019,2019,0,0,2,Export,246,Finland,FIN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72839176013,,,4
+H5,2017,2017,2017,0,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,613132639717,,,4
+H5,2017,2017,2017,0,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,523385133284,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5441400651,,,4
+H5,2018,2018,2018,0,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,659374522338,,,4
+H5,2018,2018,2018,0,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,568535879844,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5690757198,,,4
+H5,2019,2019,2019,0,0,1,Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,643208112669,,,4
+H5,2019,2019,2019,0,0,2,Export,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,556364114008,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,251,France,FRA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5956731375,,,4
+H4,2017,2017,2017,0,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7943301503,,,4
+H4,2017,2017,2017,0,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2735770600,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,725706059,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4685123,,,0
+H4,2018,2018,2018,0,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9136470708,,,4
+H4,2018,2018,2018,0,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3355704732,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1129484797,,,0
+H4,2018,2018,2018,0,0,4,Re-Import,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5460112,,,0
+H4,2019,2019,2019,0,0,1,Import,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9516910383,,,4
+H4,2019,2019,2019,0,0,2,Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3798385371,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1868501833,,,0
+H4,2019,2019,2019,0,0,4,Re-Import,268,Georgia,GEO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8127176,,,0
+H4,2017,2017,2017,0,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,460705804,,,4
+H4,2017,2017,2017,0,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13807871,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8657293,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30882,,,0
+H4,2018,2018,2018,0,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,466239674,,,4
+H4,2018,2018,2018,0,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11428464,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8412439,,,0
+H4,2018,2018,2018,0,0,4,Re-Import,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23487,,,0
+H4,2019,2019,2019,0,0,1,Import,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,494031876,,,4
+H4,2019,2019,2019,0,0,2,Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24602270,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,270,Gambia,GMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17375882,,,0
+H4,2017,2017,2017,0,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5853849921,,,4
+H4,2017,2017,2017,0,0,2,Export,275,State of Palestine,PSE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1064884138,,,4
+H4,2018,2018,2018,0,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6539589522,,,4
+H4,2018,2018,2018,0,0,2,Export,275,State of Palestine,PSE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1155634049,,,4
+H4,2019,2019,2019,0,0,1,Import,275,State of Palestine,PSE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6613454128,,,4
+H4,2019,2019,2019,0,0,2,Export,275,State of Palestine,PSE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1103808374,,,4
+H5,2017,2017,2017,0,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1167753355161,,,4
+H5,2017,2017,2017,0,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1446642435221,,,4
+H5,2018,2018,2018,0,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1292726052270,,,4
+H5,2018,2018,2018,0,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1562418816337,,,4
+H5,2019,2019,2019,0,0,1,Import,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1239897203131,,,4
+H5,2019,2019,2019,0,0,2,Export,276,Germany,DEU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1493266563850,,,4
+H5,2018,2018,2018,0,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11880470763,,,4
+H5,2018,2018,2018,0,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17099588399,,,4
+H5,2019,2019,2019,0,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10439795453,,,4
+H5,2019,2019,2019,0,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16768275189,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3649126,,,0
+H4,2017,2017,2017,0,0,1,Import,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12718141844,,,4
+H4,2017,2017,2017,0,0,2,Export,288,Ghana,GHA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14358509951,,,4
+H5,2017,2017,2017,0,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,55300597553,,,4
+H5,2017,2017,2017,0,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,32154816405,,,4
+H5,2018,2018,2018,0,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,65141447585,,,4
+H5,2018,2018,2018,0,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39490521437,,,4
+H5,2019,2019,2019,0,0,1,Import,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,62198045283,,,4
+H5,2019,2019,2019,0,0,2,Export,300,Greece,GRC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37885526504,,,4
+H5,2017,2017,2017,0,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,760311974,,,4
+H5,2017,2017,2017,0,0,2,Export,304,Greenland,GRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,595837190,,,4
+H5,2018,2018,2018,0,0,1,Import,304,Greenland,GRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,829150195,,,4
+H5,2018,2018,2018,0,0,2,Export,304,Greenland,GRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,640897343,,,4
+H5,2017,2017,2017,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18377914375,,,4
+H5,2017,2017,2017,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11011391397,,,4
+H5,2018,2018,2018,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19643972138,,,4
+H5,2018,2018,2018,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10863483936,,,4
+H5,2019,2019,2019,0,0,1,Import,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19870650527,,,4
+H5,2019,2019,2019,0,0,2,Export,320,Guatemala,GTM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11289176124,,,4
+H5,2019,2019,2019,0,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5980312022,,,4
+H5,2019,2019,2019,0,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3842501776,,,4
+H3,2017,2017,2017,0,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1761552833,,,4
+H3,2017,2017,2017,0,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1789689907,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,143555962,,,0
+H3,2017,2017,2017,0,0,4,Re-Import,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3217,,,0
+H3,2018,2018,2018,0,0,1,Import,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2400461423,,,4
+H3,2018,2018,2018,0,0,2,Export,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1378691103,,,4
+H3,2018,2018,2018,0,0,3,Re-Export,328,Guyana,GUY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13738254,,,0
+H5,2017,2017,2017,0,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8612241191,,,4
+H5,2017,2017,2017,0,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4970144395,,,4
+H5,2018,2018,2018,0,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9427941451,,,4
+H5,2018,2018,2018,0,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4486630182,,,4
+H5,2019,2019,2019,0,0,1,Import,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9156168376,,,4
+H5,2019,2019,2019,0,0,2,Export,340,Honduras,HND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3091163099,,,4
+H5,2017,2017,2017,0,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,589317440320,,,4
+H5,2017,2017,2017,0,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,549861455213,,,4
+H5,2018,2018,2018,0,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,627327030842,,,4
+H5,2018,2018,2018,0,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,569105739731,,,4
+H5,2019,2019,2019,0,0,1,Import,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,578590151014,,,4
+H5,2019,2019,2019,0,0,2,Export,344,"China, Hong Kong SAR",HKG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,535711018905,,,4
+H5,2017,2017,2017,0,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,104283798638,,,4
+H5,2017,2017,2017,0,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,113382077421,,,4
+H5,2018,2018,2018,0,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,117381592676,,,4
+H5,2018,2018,2018,0,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,123957885048,,,4
+H5,2019,2019,2019,0,0,1,Import,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,117324011167,,,4
+H5,2019,2019,2019,0,0,2,Export,348,Hungary,HUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122180657695,,,4
+H5,2017,2017,2017,0,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6970762505,,,4
+H5,2017,2017,2017,0,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4882605885,,,4
+H5,2018,2018,2018,0,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7686033358,,,4
+H5,2018,2018,2018,0,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5561475841,,,4
+H5,2019,2019,2019,0,0,1,Import,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6579003950,,,4
+H5,2019,2019,2019,0,0,2,Export,352,Iceland,ISL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5228360516,,,4
+H5,2017,2017,2017,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156925129942,,,4
+H5,2017,2017,2017,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,168810042930,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18140723,,,0
+H5,2018,2018,2018,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,188711171618,,,4
+H5,2018,2018,2018,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,180215034437,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35281106,,,4
+H5,2019,2019,2019,0,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,171275708684,,,4
+H5,2019,2019,2019,0,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167682997529,,,4
+H5,2017,2017,2017,0,0,1,Import,364,Iran,IRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51612276867,,,4
+H5,2017,2017,2017,0,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,105844085748,,,4
+H5,2018,2018,2018,0,0,1,Import,364,Iran,IRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41236168450,,,4
+H5,2018,2018,2018,0,0,2,Export,364,Iran,IRN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,96617521276,,,4
+H5,2017,2017,2017,0,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,88828357456,,,4
+H5,2017,2017,2017,0,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,138072213252,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,55997242,,,4
+H5,2018,2018,2018,0,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,106931073268,,,4
+H5,2018,2018,2018,0,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,167017887791,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,98170404,,,4
+H5,2019,2019,2019,0,0,1,Import,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101473369524,,,4
+H5,2019,2019,2019,0,0,2,Export,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170743382636,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,372,Ireland,IRL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54860971,,,4
+H5,2017,2017,2017,0,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,69115976000,,,4
+H5,2017,2017,2017,0,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,61150141000,,,4
+H5,2018,2018,2018,0,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,76584110000,,,4
+H5,2018,2018,2018,0,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,61906412000,,,4
+H5,2019,2019,2019,0,0,1,Import,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,76578559000,,,4
+H5,2019,2019,2019,0,0,2,Export,376,Israel,ISR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,58488466000,,,4
+H5,2017,2017,2017,0,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,453583034460,,,4
+H5,2017,2017,2017,0,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,507430236336,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15426808654,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5098741110,,,0
+H5,2018,2018,2018,0,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,503581133885,,,4
+H5,2018,2018,2018,0,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,549906995682,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23853112865,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4986969512,,,0
+H5,2019,2019,2019,0,0,1,Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,474957327527,,,4
+H5,2019,2019,2019,0,0,2,Export,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,537748428817,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,24163884341,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,381,Italy,ITA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4697109342,,,0
+H5,2018,2018,2018,0,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10969606774,,,4
+H5,2018,2018,2018,0,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11820908494,,,4
+H5,2019,2019,2019,0,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10482560553,,,4
+H5,2019,2019,2019,0,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12717851545,,,4
+H4,2017,2017,2017,0,0,1,Import,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9613803703,,,4
+H4,2017,2017,2017,0,0,2,Export,384,Côte d'Ivoire,CIV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12445558550,,,4
+H5,2018,2018,2018,0,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6125968821,,,4
+H5,2018,2018,2018,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1878239268,,,4
+H5,2019,2019,2019,0,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6339232886,,,4
+H5,2019,2019,2019,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1586350782,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50291730,,,0
+H4,2017,2017,2017,0,0,1,Import,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5818098181,,,4
+H4,2017,2017,2017,0,0,2,Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1309718443,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,388,Jamaica,JAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69652045,,,0
+H5,2017,2017,2017,0,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,671474306095,,,4
+H5,2017,2017,2017,0,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,698097188909,,,4
+H5,2018,2018,2018,0,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,748217608150,,,4
+H5,2018,2018,2018,0,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,738201192214,,,4
+H5,2019,2019,2019,0,0,1,Import,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,720858630025,,,4
+H5,2019,2019,2019,0,0,2,Export,392,Japan,JPN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,705633026838,,,4
+H5,2017,2017,2017,0,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29599360478,,,4
+H5,2017,2017,2017,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48502738958,,,4
+H5,2018,2018,2018,0,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33658429453,,,4
+H5,2018,2018,2018,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,61109053214,,,4
+H5,2019,2019,2019,0,0,1,Import,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38356657543,,,4
+H5,2019,2019,2019,0,0,2,Export,398,Kazakhstan,KAZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57722940896,,,4
+H5,2017,2017,2017,0,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,20407329339,,,4
+H5,2017,2017,2017,0,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7469238450,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1167514559,,,0
+H5,2018,2018,2018,0,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20309900969,,,4
+H5,2018,2018,2018,0,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7750262862,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1166168040,,,0
+H5,2019,2019,2019,0,0,1,Import,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19336708718,,,4
+H5,2019,2019,2019,0,0,2,Export,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8312916561,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,400,Jordan,JOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1281822808,,,0
+H5,2019,2019,2019,0,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17210001018,,,4
+H5,2019,2019,2019,0,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5836255973,,,4
+H4,2017,2017,2017,0,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,16690197046,,,4
+H4,2017,2017,2017,0,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5747414819,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,614388769,,,0
+H4,2018,2018,2018,0,0,1,Import,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17376721272,,,4
+H4,2018,2018,2018,0,0,2,Export,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6050420682,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,404,Kenya,KEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,705397207,,,0
+H5,2017,2017,2017,0,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,478469167573,,,4
+H5,2017,2017,2017,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,573627368937,,,4
+H5,2018,2018,2018,0,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,535183373387,,,4
+H5,2018,2018,2018,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,604807317420,,,4
+H5,2019,2019,2019,0,0,1,Import,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,503262910727,,,4
+H5,2019,2019,2019,0,0,2,Export,410,Rep. of Korea,KOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,542171769089,,,4
+H5,2017,2017,2017,0,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33597829177,,,4
+H5,2017,2017,2017,0,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,54991871282,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2014832157,,,0
+H5,2018,2018,2018,0,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35866655317,,,4
+H5,2018,2018,2018,0,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,71941444555,,,4
+H5,2019,2019,2019,0,0,1,Import,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33530892789,,,4
+H5,2019,2019,2019,0,0,2,Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64482096620,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,414,Kuwait,KWT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2291511876,,,0
+H5,2017,2017,2017,0,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4487291617,,,4
+H5,2017,2017,2017,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1757463670,,,4
+H5,2018,2018,2018,0,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5291945776,,,4
+H5,2018,2018,2018,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1835179371,,,4
+H5,2019,2019,2019,0,0,1,Import,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4988946048,,,4
+H5,2019,2019,2019,0,0,2,Export,417,Kyrgyzstan,KGZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1986109552,,,4
+H5,2017,2017,2017,0,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5159709477,,,4
+H5,2017,2017,2017,0,0,2,Export,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4909733654,,,4
+H5,2018,2018,2018,0,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5848036260,,,4
+H5,2018,2018,2018,0,0,2,Export,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5814806369,,,4
+H5,2019,2019,2019,0,0,1,Import,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5797444591,,,4
+H5,2019,2019,2019,0,0,2,Export,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5809346160,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,418,Lao People's Dem. Rep.,LAO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,828701928,,,0
+H5,2017,2017,2017,0,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19586709383,,,4
+H5,2017,2017,2017,0,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2844446138,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6287547,,,4
+H5,2018,2018,2018,0,0,1,Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,19982944051,,,4
+H5,2018,2018,2018,0,0,2,Export,422,Lebanon,LBN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2952759932,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,422,Lebanon,LBN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11307816,,,4
+H5,2017,2017,2017,0,0,1,Import,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2065571364,,,4
+H5,2017,2017,2017,0,0,2,Export,426,Lesotho,LSO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,673150837,,,4
+H5,2017,2017,2017,0,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,16053149440,,,4
+H5,2017,2017,2017,0,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13189947231,,,4
+H5,2018,2018,2018,0,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,18612965523,,,4
+H5,2018,2018,2018,0,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15064999864,,,4
+H5,2019,2019,2019,0,0,1,Import,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,17767574788,,,4
+H5,2019,2019,2019,0,0,2,Export,428,Latvia,LVA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14447101696,,,4
+H2,2018,2018,2018,0,0,1,Import,434,Libya,LBY,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,13472909218,,,4
+H2,2018,2018,2018,0,0,2,Export,434,Libya,LBY,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,,,30040892184,,,4
+H5,2017,2017,2017,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,30978718199,,,4
+H5,2017,2017,2017,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29349549370,,,4
+H5,2018,2018,2018,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,36501414404,,,4
+H5,2018,2018,2018,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33334576736,,,4
+H5,2019,2019,2019,0,0,1,Import,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,35759415639,,,4
+H5,2019,2019,2019,0,0,2,Export,440,Lithuania,LTU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33150771896,,,4
+H5,2017,2017,2017,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21070831564,,,4
+H5,2017,2017,2017,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,13959035854,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,73204760,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,223942060,,,4
+H5,2018,2018,2018,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23118820384,,,4
+H5,2018,2018,2018,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,15148367371,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,56412800,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257599958,,,4
+H5,2019,2019,2019,0,0,1,Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22673692574,,,4
+H5,2019,2019,2019,0,0,2,Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14667446910,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48104065,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,442,Luxembourg,LUX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,37076183,,,0
+H5,2018,2018,2018,0,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12068649824,,,4
+H5,2018,2018,2018,0,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1161004083,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1101163982,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,855793,,,0
+H5,2019,2019,2019,0,0,1,Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,12024018851,,,4
+H5,2019,2019,2019,0,0,2,Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1023983031,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,976712654,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,446,"China, Macao SAR",MAC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,448322,,,4
+H5,2017,2017,2017,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3658005536,,,4
+H5,2017,2017,2017,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2851663745,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,33014815,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6949448,,,0
+H5,2018,2018,2018,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4081653524,,,4
+H5,2018,2018,2018,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3133017751,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38851041,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10967117,,,0
+H5,2019,2019,2019,0,0,1,Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3944263148,,,4
+H5,2019,2019,2019,0,0,2,Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2688948366,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,29892564,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,450,Madagascar,MDG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17842912,,,0
+H5,2019,2019,2019,0,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2940940382,,,4
+H5,2019,2019,2019,0,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,912832375,,,4
+H4,2017,2017,2017,0,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2547041799,,,4
+H4,2017,2017,2017,0,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,883851985,,,4
+H4,2018,2018,2018,0,0,1,Import,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2706447071,,,4
+H4,2018,2018,2018,0,0,2,Export,454,Malawi,MWI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,879974472,,,4
+H5,2017,2017,2017,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,194720187072,,,4
+H5,2017,2017,2017,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,217722507482,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28784500,,,4
+H5,2018,2018,2018,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,217358263559,,,4
+H5,2018,2018,2018,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,247323665356,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,66484684,,,4
+H5,2019,2019,2019,0,0,1,Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,204905910429,,,4
+H5,2019,2019,2019,0,0,2,Export,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,238088652110,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,458,Malaysia,MYS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,77681386,,,4
+H5,2017,2017,2017,0,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2359606355,,,4
+H5,2017,2017,2017,0,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,199345279,,,4
+H5,2018,2018,2018,0,0,1,Import,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2961026844,,,4
+H5,2018,2018,2018,0,0,2,Export,462,Maldives,MDV,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,181711401,,,4
+H4,2017,2017,2017,0,0,1,Import,466,Mali,MLI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4336565281,,,4
+H4,2017,2017,2017,0,0,2,Export,466,Mali,MLI,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1902730073,,,4
+H5,2017,2017,2017,0,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6827870815,,,4
+H5,2017,2017,2017,0,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4077731851,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28338820,,,4
+H5,2018,2018,2018,0,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7204023522,,,4
+H5,2018,2018,2018,0,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3868514079,,,4
+H5,2019,2019,2019,0,0,1,Import,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8211008645,,,4
+H5,2019,2019,2019,0,0,2,Export,470,Malta,MLT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4142922134,,,4
+H4,2017,2017,2017,0,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3522418198,,,4
+H4,2017,2017,2017,0,0,2,Export,478,Mauritania,MRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1989430771,,,0
+H4,2019,2019,2019,0,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3519829183,,,4
+H4,2019,2019,2019,0,0,2,Export,478,Mauritania,MRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2266469717,,,4
+H4,2018,2018,2018,0,0,1,Import,478,Mauritania,MRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3183164116,,,4
+H4,2018,2018,2018,0,0,2,Export,478,Mauritania,MRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2051854542,,,4
+H5,2017,2017,2017,0,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5269484338,,,4
+H5,2017,2017,2017,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2102621814,,,4
+H5,2018,2018,2018,0,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5669326922,,,4
+H5,2018,2018,2018,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1987672862,,,4
+H5,2019,2019,2019,0,0,1,Import,480,Mauritius,MUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5601184454,,,4
+H5,2019,2019,2019,0,0,2,Export,480,Mauritius,MUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1876368427,,,4
+H4,2017,2017,2017,0,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,420394594048,,,0
+H4,2017,2017,2017,0,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,409396273667,,,4
+H4,2018,2018,2018,0,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,464294262714,,,0
+H4,2018,2018,2018,0,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,450684024620,,,4
+H4,2019,2019,2019,0,0,1,Import,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,455289486227,,,0
+H4,2019,2019,2019,0,0,2,Export,484,Mexico,MEX,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,460703804234,,,4
+H5,2017,2017,2017,0,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259609174581,,,4
+H5,2017,2017,2017,0,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,317663172110,,,4
+H5,2018,2018,2018,0,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286194740458,,,4
+H5,2018,2018,2018,0,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335743566738,,,4
+H5,2019,2019,2019,0,0,1,Import,490,"Other Asia, nes",,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,285931193664,,,4
+H5,2019,2019,2019,0,0,2,Export,490,"Other Asia, nes",,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329483858291,,,4
+H5,2017,2017,2017,0,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4337319902,,,4
+H5,2017,2017,2017,0,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6200592951,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28347322,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5106836,,,0
+H5,2018,2018,2018,0,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5874787944,,,4
+H5,2018,2018,2018,0,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7011757684,,,4
+H5,2019,2019,2019,0,0,1,Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6127355631,,,4
+H5,2019,2019,2019,0,0,2,Export,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7619753899,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,496,Mongolia,MNG,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3682707,,,0
+H4,2017,2017,2017,0,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4831414613,,,4
+H4,2017,2017,2017,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2425118752,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,784363022,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5291932,,,0
+H4,2018,2018,2018,0,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5764281783,,,4
+H4,2018,2018,2018,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2706818216,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,854433561,,,0
+H4,2018,2018,2018,0,0,4,Re-Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10318239,,,0
+H4,2019,2019,2019,0,0,1,Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5842487249,,,4
+H4,2019,2019,2019,0,0,2,Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2779164783,,,4
+H4,2019,2019,2019,0,0,3,Re-Export,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,781552514,,,0
+H4,2019,2019,2019,0,0,4,Re-Import,498,Rep. of Moldova,MDA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8406452,,,0
+H5,2017,2017,2017,0,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2610535972,,,4
+H5,2017,2017,2017,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,420870887,,,4
+H5,2018,2018,2018,0,0,1,Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3002864021,,,4
+H5,2018,2018,2018,0,0,2,Export,499,Montenegro,MNE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,465997357,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,499,Montenegro,MNE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1914401,,,0
+H5,2017,2017,2017,0,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,45039093063,,,4
+H5,2017,2017,2017,0,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25624297849,,,4
+H5,2018,2018,2018,0,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51298958639,,,4
+H5,2018,2018,2018,0,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29360137412,,,4
+H5,2019,2019,2019,0,0,1,Import,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,51074849808,,,4
+H5,2019,2019,2019,0,0,2,Export,504,Morocco,MAR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,29327791573,,,4
+H5,2018,2018,2018,0,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6785547384,,,4
+H5,2018,2018,2018,0,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5195579533,,,4
+H4,2017,2017,2017,0,0,1,Import,508,Mozambique,MOZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5701705181,,,4
+H4,2017,2017,2017,0,0,2,Export,508,Mozambique,MOZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4718518271,,,4
+H5,2017,2017,2017,0,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26434873449,,,4
+H5,2017,2017,2017,0,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,32904047205,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5485057319,,,0
+H5,2018,2018,2018,0,0,1,Import,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,25770092486,,,4
+H5,2018,2018,2018,0,0,2,Export,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41760976158,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,512,Oman,OMN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4793611233,,,0
+H5,2017,2017,2017,0,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6778202853,,,4
+H5,2017,2017,2017,0,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5229360925,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1761520868,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10927980,,,0
+H5,2018,2018,2018,0,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8288940141,,,4
+H5,2018,2018,2018,0,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7488296000,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3390819377,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,50116304,,,0
+H5,2019,2019,2019,0,0,1,Import,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8086034607,,,4
+H5,2019,2019,2019,0,0,2,Export,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6256147591,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2578799766,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,516,Namibia,NAM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329648768,,,4
+H4,2017,2017,2017,0,0,1,Import,524,Nepal,NPL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10037840171,,,4
+H4,2017,2017,2017,0,0,2,Export,524,Nepal,NPL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,740742914,,,4
+H5,2017,2017,2017,0,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,461902678720,,,4
+H5,2017,2017,2017,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,527907822349,,,4
+H5,2018,2018,2018,0,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,521035627912,,,4
+H5,2018,2018,2018,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,587893084428,,,4
+H5,2019,2019,2019,0,0,1,Import,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,514857687783,,,4
+H5,2019,2019,2019,0,0,2,Export,528,Netherlands,NLD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,576784455411,,,4
+H4,2017,2017,2017,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1194654491,,,4
+H4,2017,2017,2017,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,89079346,,,4
+H4,2018,2018,2018,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1257869571,,,4
+H4,2018,2018,2018,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,69762736,,,4
+H4,2019,2019,2019,0,0,1,Import,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1320097006,,,4
+H4,2019,2019,2019,0,0,2,Export,533,Aruba,ABW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,83627050,,,4
+H5,2017,2017,2017,0,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,40128439163,,,4
+H5,2017,2017,2017,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38050286199,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1310656220,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,137575511,,,4
+H5,2018,2018,2018,0,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,43736245673,,,4
+H5,2018,2018,2018,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,39838898880,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1402787147,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135398520,,,4
+H5,2019,2019,2019,0,0,1,Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,42271276496,,,4
+H5,2019,2019,2019,0,0,2,Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,39539825796,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1355319189,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,554,New Zealand,NZL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,122776372,,,4
+H5,2017,2017,2017,0,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7703836557,,,4
+H5,2017,2017,2017,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4925581177,,,4
+H5,2019,2019,2019,0,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6985507830,,,4
+H5,2019,2019,2019,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5272553121,,,4
+H5,2018,2018,2018,0,0,1,Import,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7351000180,,,4
+H5,2018,2018,2018,0,0,2,Export,558,Nicaragua,NIC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5013907569,,,4
+H5,2018,2018,2018,0,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2645972973,,,4
+H5,2018,2018,2018,0,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1564627862,,,4
+H4,2017,2017,2017,0,0,1,Import,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1761880629,,,4
+H4,2017,2017,2017,0,0,2,Export,562,Niger,NER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1992358402,,,4
+H4,2017,2017,2017,0,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31270090265,,,4
+H4,2017,2017,2017,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,44466366757,,,4
+H4,2018,2018,2018,0,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,43011523214,,,4
+H4,2018,2018,2018,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,62399742736,,,4
+H4,2019,2019,2019,0,0,1,Import,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47369076912,,,4
+H4,2019,2019,2019,0,0,2,Export,566,Nigeria,NGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,53617812190,,,4
+H5,2017,2017,2017,0,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,85525862977,,,4
+H5,2017,2017,2017,0,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101976020159,,,4
+H5,2018,2018,2018,0,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,87434996146,,,4
+H5,2018,2018,2018,0,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,123040316872,,,4
+H5,2019,2019,2019,0,0,1,Import,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,86144982447,,,4
+H5,2019,2019,2019,0,0,2,Export,579,Norway,NOR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,104029881468,,,4
+H5,2018,2018,2018,0,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,154412826,,,0
+H5,2018,2018,2018,0,0,2,Export,585,Palau,PLW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8620908,,,4
+H4,2017,2017,2017,0,0,1,Import,585,Palau,PLW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,157813256,,,0
+H4,2017,2017,2017,0,0,2,Export,585,Palau,PLW,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6419759,,,4
+H5,2017,2017,2017,0,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57440012500,,,4
+H5,2017,2017,2017,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21877787164,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,400683239,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,234002001,,,0
+H5,2018,2018,2018,0,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,60162862445,,,4
+H5,2018,2018,2018,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,23630892979,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,286992836,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,303049950,,,0
+H5,2019,2019,2019,0,0,1,Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,50063059560,,,4
+H5,2019,2019,2019,0,0,2,Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,23748680252,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,480289118,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,586,Pakistan,PAK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,132414808,,,0
+H5,2017,2017,2017,0,0,1,Import,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21934113569,,,4
+H5,2017,2017,2017,0,0,2,Export,591,Panama,PAN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10600819757,,,4
+H5,2017,2017,2017,0,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,11873407129,,,4
+H5,2017,2017,2017,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8679833045,,,4
+H5,2018,2018,2018,0,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,13333951365,,,4
+H5,2018,2018,2018,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9042140680,,,4
+H5,2019,2019,2019,0,0,1,Import,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12187394825,,,4
+H5,2019,2019,2019,0,0,2,Export,600,Paraguay,PRY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7652035474,,,4
+H5,2017,2017,2017,0,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,39763913902,,,4
+H5,2017,2017,2017,0,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,44237949422,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12396163,,,0
+H5,2018,2018,2018,0,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,43142519807,,,4
+H5,2018,2018,2018,0,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,48015148375,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12858418,,,0
+H5,2019,2019,2019,0,0,1,Import,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,42376434141,,,4
+H5,2019,2019,2019,0,0,2,Export,604,Peru,PER,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,46131564759,,,4
+H5,2019,2019,2019,0,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,117247264757,,,4
+H5,2019,2019,2019,0,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,70926674490,,,4
+H4,2017,2017,2017,0,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,101889431966,,,4
+H4,2017,2017,2017,0,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,68712611186,,,4
+H4,2018,2018,2018,0,0,1,Import,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,115038016454,,,4
+H4,2018,2018,2018,0,0,2,Export,608,Philippines,PHL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,67487668298,,,4
+H5,2017,2017,2017,0,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,217978575741,,,4
+H5,2017,2017,2017,0,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221307621302,,,4
+H5,2018,2018,2018,0,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267699886888,,,4
+H5,2018,2018,2018,0,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,261815268525,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95,,,0
+H5,2019,2019,2019,0,0,1,Import,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246653880235,,,4
+H5,2019,2019,2019,0,0,2,Export,616,Poland,POL,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251864773270,,,4
+H5,2017,2017,2017,0,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,78746119203,,,4
+H5,2017,2017,2017,0,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,62116840516,,,4
+H5,2018,2018,2018,0,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,95629298715,,,4
+H5,2018,2018,2018,0,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,74135905807,,,4
+H5,2019,2019,2019,0,0,1,Import,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89541379731,,,4
+H5,2019,2019,2019,0,0,2,Export,620,Portugal,PRT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67064074174,,,4
+H2,2017,2017,2017,0,0,1,Import,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,588047302,,,4
+H2,2017,2017,2017,0,0,2,Export,626,Timor-Leste,TLS,0,World,WLD,,,,,,,,TOTAL,ALL COMMODITIES,1,No Quantity,0,,,,0,,24174262,,,4
+H4,2017,2017,2017,0,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29896356991,,,4
+H4,2017,2017,2017,0,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,67498105851,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2619091131,,,0
+H4,2018,2018,2018,0,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,31695930258,,,4
+H4,2018,2018,2018,0,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,84904616757,,,4
+H4,2019,2019,2019,0,0,1,Import,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,29178064574,,,4
+H4,2019,2019,2019,0,0,2,Export,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,72934956293,,,0
+H4,2019,2019,2019,0,0,3,Re-Export,634,Qatar,QAT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2449175591,,,0
+H5,2017,2017,2017,0,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,85318177451,,,4
+H5,2017,2017,2017,0,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,70626887499,,,4
+H5,2018,2018,2018,0,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,97877632897,,,4
+H5,2018,2018,2018,0,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,80077606266,,,4
+H5,2019,2019,2019,0,0,1,Import,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,96644318708,,,4
+H5,2019,2019,2019,0,0,2,Export,642,Romania,ROU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,77298748437,,,4
+H5,2017,2017,2017,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,259966680280,,,4
+H5,2017,2017,2017,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,379206606018,,,4
+H5,2018,2018,2018,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,240225755863,,,4
+H5,2018,2018,2018,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,451494828173,,,4
+H5,2019,2019,2019,0,0,1,Import,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,247161342900,,,4
+H5,2019,2019,2019,0,0,2,Export,643,Russian Federation,RUS,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,426720332660,,,4
+H5,2018,2018,2018,0,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2828104496,,,4
+H5,2018,2018,2018,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1004201169,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,313423344,,,0
+H5,2019,2019,2019,0,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3195163442,,,4
+H5,2019,2019,2019,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1161750594,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,380942983,,,0
+H4,2017,2017,2017,0,0,1,Import,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2700353144,,,4
+H4,2017,2017,2017,0,0,2,Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,942651251,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,646,Rwanda,RWA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,267173078,,,0
+H3,2017,2017,2017,0,0,1,Import,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,308946849,,,4
+H3,2017,2017,2017,0,0,2,Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,33245644,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,659,Saint Kitts and Nevis,KNA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10351422,,,0
+H4,2017,2017,2017,0,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,663692157,,,4
+H4,2017,2017,2017,0,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,141655244,,,4
+H4,2018,2018,2018,0,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,672941162,,,4
+H4,2018,2018,2018,0,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,116813983,,,4
+H4,2019,2019,2019,0,0,1,Import,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,623792718,,,4
+H4,2019,2019,2019,0,0,2,Export,662,Saint Lucia,LCA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,97255260,,,4
+H3,2017,2017,2017,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329952436,,,4
+H3,2017,2017,2017,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,42299408,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5833371,,,0
+H3,2018,2018,2018,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,353627074,,,4
+H3,2018,2018,2018,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,43665885,,,4
+H3,2018,2018,2018,0,0,3,Re-Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4749465,,,0
+H3,2019,2019,2019,0,0,1,Import,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,335230895,,,4
+H3,2019,2019,2019,0,0,2,Export,670,Saint Vincent and the Grenadines,VCT,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,38157024,,,4
+H3,2017,2017,2017,0,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147049579,,,4
+H3,2017,2017,2017,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10562590,,,4
+H3,2018,2018,2018,0,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148305957,,,4
+H3,2018,2018,2018,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12087302,,,4
+H3,2018,2018,2018,0,0,4,Re-Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,115,,,0
+H3,2019,2019,2019,0,0,1,Import,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,147666945,,,4
+H3,2019,2019,2019,0,0,2,Export,678,Sao Tome and Principe,STP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9858888,,,0
+H4,2017,2017,2017,0,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,134519129744,,,4
+H4,2017,2017,2017,0,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,221835062773,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8625557088,,,0
+H4,2018,2018,2018,0,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,135211178073,,,4
+H4,2018,2018,2018,0,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294535553148,,,4
+H4,2018,2018,2018,0,0,3,Re-Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8688081069,,,0
+H4,2019,2019,2019,0,0,1,Import,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,144334467853,,,4
+H4,2019,2019,2019,0,0,2,Export,682,Saudi Arabia,SAU,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,251800016999,,,4
+H5,2019,2019,2019,0,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8143734073,,,4
+H5,2019,2019,2019,0,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4178514674,,,4
+H4,2017,2017,2017,0,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6728671863,,,4
+H4,2017,2017,2017,0,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2989042090,,,4
+H4,2018,2018,2018,0,0,1,Import,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8071410856,,,4
+H4,2018,2018,2018,0,0,2,Export,686,Senegal,SEN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3623242949,,,4
+H5,2017,2017,2017,0,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,22146377217,,,4
+H5,2017,2017,2017,0,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,16959040119,,,4
+H5,2018,2018,2018,0,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,25882635269,,,4
+H5,2018,2018,2018,0,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19239126973,,,4
+H5,2019,2019,2019,0,0,1,Import,688,Serbia,SRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,26730093636,,,4
+H5,2019,2019,2019,0,0,2,Export,688,Serbia,SRB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,19633048518,,,4
+H5,2018,2018,2018,0,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1136551339,,,4
+H5,2018,2018,2018,0,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,846972441,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,329931583,,,0
+H5,2019,2019,2019,0,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1437735992,,,4
+H5,2019,2019,2019,0,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,824038383,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,397727729,,,0
+H3,2017,2017,2017,0,0,1,Import,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1348462645,,,4
+H3,2017,2017,2017,0,0,2,Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,591585318,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,690,Seychelles,SYC,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,191652587,,,0
+H3,2017,2017,2017,0,0,2,Export,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,102651588,,,0
+H3,2017,2017,2017,0,0,3,Re-Export,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,40006075,,,0
+H4,2018,2018,2018,0,0,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,986898687,,,4
+H4,2018,2018,2018,0,0,2,Export,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,205368284,,,4
+H3,2017,2017,2017,0,0,1,Import,694,Sierra Leone,SLE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1073617079,,,4
+H5,2017,2017,2017,0,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,444052353836,,,4
+H5,2017,2017,2017,0,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,294364490162,,,4
+H5,2018,2018,2018,0,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,507615733027,,,4
+H5,2018,2018,2018,0,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,322492099897,,,4
+H5,2019,2019,2019,0,0,1,Import,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,478883729111,,,4
+H5,2019,2019,2019,0,0,2,Export,699,India,IND,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,323250726424,,,4
+H5,2018,2018,2018,0,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,370503520526,,,4
+H5,2018,2018,2018,0,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,411743293747,,,4
+H5,2019,2019,2019,0,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,358974637219,,,4
+H5,2019,2019,2019,0,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390331757374,,,4
+H4,2017,2017,2017,0,0,1,Import,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,327709713161,,,4
+H4,2017,2017,2017,0,0,2,Export,702,Singapore,SGP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,373254554420,,,4
+H5,2017,2017,2017,0,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,81935090097,,,4
+H5,2017,2017,2017,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,83475386333,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1090354438,,,4
+H5,2018,2018,2018,0,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,92952834583,,,4
+H5,2018,2018,2018,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,93403168103,,,4
+H5,2019,2019,2019,0,0,1,Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,90908108589,,,4
+H5,2019,2019,2019,0,0,2,Export,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89909085415,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,703,Slovakia,SVK,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,946207854,,,4
+H5,2018,2018,2018,0,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236868822761,,,4
+H5,2018,2018,2018,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,243698698324,,,4
+H5,2019,2019,2019,0,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,253442015854,,,4
+H5,2019,2019,2019,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,264610322649,,,4
+H4,2017,2017,2017,0,0,1,Import,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,213215299139,,,4
+H4,2017,2017,2017,0,0,2,Export,704,Viet Nam,VNM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,215118606999,,,4
+H5,2017,2017,2017,0,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31149443532,,,4
+H5,2017,2017,2017,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,31893789564,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,110198744,,,0
+H5,2018,2018,2018,0,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,36267337521,,,4
+H5,2018,2018,2018,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,36471278939,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124921805,,,4
+H5,2019,2019,2019,0,0,1,Import,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,38162054184,,,4
+H5,2019,2019,2019,0,0,2,Export,705,Slovenia,SVN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,37574594379,,,4
+H5,2017,2017,2017,0,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,83086880674,,,0
+H5,2017,2017,2017,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,88233218989,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,318534934,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,332447361,,,0
+H5,2018,2018,2018,0,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,92636961890,,,0
+H5,2018,2018,2018,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,93677434344,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2387285741,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,326697622,,,0
+H5,2019,2019,2019,0,0,1,Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,88037490927,,,0
+H5,2019,2019,2019,0,0,2,Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,89395988333,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2253768968,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,710,South Africa,ZAF,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,390313312,,,0
+H5,2018,2018,2018,0,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6450201802,,,4
+H4,2017,2017,2017,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3480381866,,,4
+H5,2018,2018,2018,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4037267069,,,4
+H5,2019,2019,2019,0,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4787446790,,,4
+H5,2019,2019,2019,0,0,2,Export,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4279383537,,,4
+H4,2017,2017,2017,0,0,1,Import,716,Zimbabwe,ZWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,4962102713,,,4
+H5,2017,2017,2017,0,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,341421161050,,,4
+H5,2017,2017,2017,0,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,311600619481,,,4
+H5,2019,2019,2019,0,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,375485170269,,,4
+H5,2019,2019,2019,0,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,337215113876,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7662517819,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2675001277,,,0
+H5,2018,2018,2018,0,0,1,Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,391056705310,,,4
+H5,2018,2018,2018,0,0,2,Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,346064315051,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6323514185,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2255811063,,,0
+H5,2017,2017,2017,0,0,3,Re-Export,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5858664409,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,724,Spain,ESP,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2733234543,,,0
+H5,2017,2017,2017,0,0,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10276864989,,,4
+H5,2017,2017,2017,0,0,2,Export,729,Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4240642666,,,4
+H5,2018,2018,2018,0,0,1,Import,729,Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10483740855,,,4
+H5,2018,2018,2018,0,0,2,Export,729,Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3619251504,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,729,Sudan,SDN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,57541951,,,0
+H3,2017,2017,2017,0,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1209474441,,,4
+H3,2017,2017,2017,0,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1441019455,,,4
+H3,2017,2017,2017,0,0,3,Re-Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,41097060,,,0
+H3,2018,2018,2018,0,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1526897522,,,4
+H3,2018,2018,2018,0,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1502817149,,,4
+H3,2018,2018,2018,0,0,3,Re-Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,57287213,,,0
+H3,2018,2018,2018,0,0,4,Re-Import,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2862,,,0
+H3,2019,2019,2019,0,0,1,Import,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1711449892,,,4
+H3,2019,2019,2019,0,0,2,Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1460965557,,,4
+H3,2019,2019,2019,0,0,3,Re-Export,740,Suriname,SUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,64815096,,,0
+H5,2017,2017,2017,0,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1611784444,,,4
+H5,2017,2017,2017,0,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1801000657,,,4
+H5,2018,2018,2018,0,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1857539457,,,4
+H5,2018,2018,2018,0,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1842438001,,,4
+H5,2019,2019,2019,0,0,1,Import,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1832435797,,,4
+H5,2019,2019,2019,0,0,2,Export,748,Eswatini,SWZ,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2001636601,,,4
+H5,2017,2017,2017,0,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,154195426142,,,4
+H5,2017,2017,2017,0,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,152902201865,,,4
+H5,2018,2018,2018,0,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,170591780310,,,4
+H5,2018,2018,2018,0,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,165959032580,,,4
+H5,2019,2019,2019,0,0,1,Import,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,158958869495,,,4
+H5,2019,2019,2019,0,0,2,Export,752,Sweden,SWE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,160568108013,,,4
+H5,2017,2017,2017,0,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,267501495875,,,4
+H5,2017,2017,2017,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,299308693087,,,4
+H5,2018,2018,2018,0,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,278665555576,,,4
+H5,2018,2018,2018,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,310524275089,,,4
+H5,2019,2019,2019,0,0,1,Import,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,276291811281,,,4
+H5,2019,2019,2019,0,0,2,Export,757,Switzerland,CHE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,313629550202,,,4
+H5,2017,2017,2017,0,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,221514052365,,,4
+H5,2017,2017,2017,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,236634037692,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,296909915,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3365117246,,,4
+H5,2018,2018,2018,0,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,249173519017,,,4
+H5,2018,2018,2018,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252485154115,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,246094240,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3418719090,,,4
+H5,2019,2019,2019,0,0,1,Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,216804755195,,,4
+H5,2019,2019,2019,0,0,2,Export,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,233674439906,,,4
+H5,2019,2019,2019,0,0,4,Re-Import,764,Thailand,THA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3302598713,,,4
+H5,2018,2018,2018,0,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,1907143990,,,4
+H5,2018,2018,2018,0,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1024037778,,,4
+H5,2019,2019,2019,0,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1844416713,,,4
+H5,2019,2019,2019,0,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,917084613,,,4
+H4,2017,2017,2017,0,0,1,Import,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1635573221,,,4
+H4,2017,2017,2017,0,0,2,Export,768,Togo,TGO,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,867057011,,,4
+H5,2018,2018,2018,0,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,244645890108,,,4
+H5,2018,2018,2018,0,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,387910040562,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,214567750799,,,0
+H5,2019,2019,2019,0,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,288397544149,,,4
+H5,2019,2019,2019,0,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,389372505148,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,124550139307,,,0
+H4,2017,2017,2017,0,0,1,Import,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,257686922234,,,4
+H4,2017,2017,2017,0,0,2,Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,313559298498,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,784,United Arab Emirates,ARE,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,148810934255,,,0
+H5,2018,2018,2018,0,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,22694713774,,,4
+H5,2018,2018,2018,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15521228910,,,4
+H5,2019,2019,2019,0,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21573846826,,,4
+H5,2019,2019,2019,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14944087490,,,4
+H4,2017,2017,2017,0,0,1,Import,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,20618072727,,,4
+H4,2017,2017,2017,0,0,2,Export,788,Tunisia,TUN,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14199816336,,,4
+H5,2017,2017,2017,0,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,233799651234,,,4
+H5,2017,2017,2017,0,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,156992940414,,,4
+H5,2018,2018,2018,0,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,223039038051,,,4
+H5,2018,2018,2018,0,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,168023390683,,,4
+H5,2019,2019,2019,0,0,1,Import,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,210343464863,,,4
+H5,2019,2019,2019,0,0,2,Export,792,Turkey,TUR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,180835909574,,,4
+H5,2018,2018,2018,0,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6729436499,,,4
+H5,2018,2018,2018,0,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3087363576,,,4
+H4,2017,2017,2017,0,0,1,Import,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5595903639,,,4
+H4,2017,2017,2017,0,0,2,Export,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,2901465679,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,800,Uganda,UGA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,427926812,,,0
+H4,2017,2017,2017,0,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,49439155766,,,4
+H4,2017,2017,2017,0,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,43428391056,,,4
+H4,2018,2018,2018,0,0,1,Import,804,Ukraine,UKR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,57187093429,,,4
+H4,2018,2018,2018,0,0,2,Export,804,Ukraine,UKR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,47334679853,,,4
+H5,2017,2017,2017,0,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7730126780,,,4
+H5,2017,2017,2017,0,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,5682803081,,,4
+H5,2018,2018,2018,0,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9051677474,,,4
+H5,2018,2018,2018,0,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,6906336855,,,4
+H5,2019,2019,2019,0,0,1,Import,807,North Macedonia,MKD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,9470285509,,,4
+H5,2019,2019,2019,0,0,2,Export,807,North Macedonia,MKD,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7185964028,,,4
+H4,2017,2017,2017,0,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,66763869710,,,4
+H4,2017,2017,2017,0,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,26434038485,,,4
+H4,2018,2018,2018,0,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,82444514414,,,4
+H4,2018,2018,2018,0,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,29483042042,,,4
+H4,2019,2019,2019,0,0,1,Import,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,78657517973,,,4
+H4,2019,2019,2019,0,0,2,Export,818,Egypt,EGY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,30632552899,,,4
+H5,2017,2017,2017,0,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,640907688603,,,4
+H5,2017,2017,2017,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,441847324214,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1472208363,,,0
+H5,2017,2017,2017,0,0,4,Re-Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4689247105,,,4
+H5,2018,2018,2018,0,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,671694257766,,,4
+H5,2018,2018,2018,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,490840363553,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5055648184,,,4
+H5,2019,2019,2019,0,0,1,Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,692494170352,,,4
+H5,2019,2019,2019,0,0,2,Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,468322416147,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4256492786,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,826,United Kingdom,GBR,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5752431614,,,4
+H5,2017,2017,2017,0,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7765411242,,,4
+H5,2017,2017,2017,0,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4178109062,,,4
+H5,2018,2018,2018,0,0,1,Import,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8553677024,,,4
+H5,2018,2018,2018,0,0,2,Export,834,United Rep. of Tanzania,TZA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3669212438,,,4
+H5,2017,2017,2017,0,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2405276626657,,,4
+H5,2017,2017,2017,0,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1545809598154,,,4
+H5,2017,2017,2017,0,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,238246508868,,,0
+H5,2019,2019,2019,0,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2567492197103,,,4
+H5,2019,2019,2019,0,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1644276220783,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,249813678499,,,0
+H5,2018,2018,2018,0,0,1,Import,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2611432490157,,,4
+H5,2018,2018,2018,0,0,2,Export,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,1665302936591,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,842,USA,USA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,252049346594,,,0
+H5,2019,2019,2019,0,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4252948090,,,4
+H5,2019,2019,2019,0,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3263040981,,,4
+H4,2017,2017,2017,0,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3717113992,,,4
+H4,2017,2017,2017,0,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,2790162435,,,4
+H4,2018,2018,2018,0,0,1,Import,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4295841213,,,4
+H4,2018,2018,2018,0,0,2,Export,854,Burkina Faso,BFA,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,3283185327,,,4
+H5,2017,2017,2017,0,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8457876667,,,4
+H5,2017,2017,2017,0,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7889387375,,,4
+H5,2017,2017,2017,0,0,4,Re-Import,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,14514312,,,4
+H5,2018,2018,2018,0,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8893245997,,,4
+H5,2018,2018,2018,0,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7498004935,,,4
+H5,2018,2018,2018,0,0,4,Re-Import,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,21494820,,,4
+H5,2019,2019,2019,0,0,1,Import,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,8313647005,,,4
+H5,2019,2019,2019,0,0,2,Export,858,Uruguay,URY,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7816028429,,,4
+H5,2018,2018,2018,0,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,17313951650,,,4
+H5,2018,2018,2018,0,0,2,Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10919011727,,,4
+H5,2018,2018,2018,0,0,3,Re-Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,275293334,,,0
+H5,2018,2018,2018,0,0,4,Re-Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10422846,,,0
+H5,2019,2019,2019,0,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,21867269545,,,4
+H5,2019,2019,2019,0,0,2,Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,14929506690,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,91414726,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,10473831,,,4
+H4,2017,2017,2017,0,0,1,Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,12034948143,,,4
+H4,2017,2017,2017,0,0,2,Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,10079471003,,,4
+H4,2017,2017,2017,0,0,3,Re-Export,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,321645536,,,0
+H4,2017,2017,2017,0,0,4,Re-Import,860,Uzbekistan,UZB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,6357172,,,0
+H4,2017,2017,2017,0,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,356189844,,,4
+H4,2017,2017,2017,0,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,44401814,,,4
+H4,2018,2018,2018,0,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,362883715,,,4
+H4,2018,2018,2018,0,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,46101305,,,4
+H4,2019,2019,2019,0,0,1,Import,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,390681506,,,4
+H4,2019,2019,2019,0,0,2,Export,882,Samoa,WSM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,49272482,,,4
+H5,2018,2018,2018,0,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,3309026257,,,4
+H5,2018,2018,2018,0,0,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15456132,,,0
+H5,2018,2018,2018,0,0,3,Re-Export,887,Yemen,YEM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,5623012,,,0
+H5,2019,2019,2019,0,0,1,Import,887,Yemen,YEM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,4715958741,,,4
+H5,2019,2019,2019,0,0,2,Export,887,Yemen,YEM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,23783553,,,0
+H5,2019,2019,2019,0,0,3,Re-Export,887,Yemen,YEM,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,15308088,,,0
+H5,2017,2017,2017,0,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7981976758,,,4
+H5,2017,2017,2017,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,8006789539,,,4
+H5,2018,2018,2018,0,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9462438634,,,4
+H5,2018,2018,2018,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,9043157369,,,4
+H5,2019,2019,2019,0,0,1,Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,7221084744,,,4
+H5,2019,2019,2019,0,0,2,Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,,,7029095024,,,4
+H5,2019,2019,2019,0,0,3,Re-Export,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,211342871,,,0
+H5,2019,2019,2019,0,0,4,Re-Import,894,Zambia,ZMB,0,World,WLD,,,,,,,,TOTAL,All Commodities,1,No Quantity,0,,,,0,,28,,,0
