@@ -110,9 +110,9 @@ def plotNetwork(spins, graphPos):
 
 # Initialize with certain network
 if netwType == "wiki":
-    [adjMat, index, sizeIndex] = GetWiki(rowNormalize=True)
+    adjMat, index, sizeIndex = GetWiki(rowNormalize=True)
 else:
-    [adjMat, index, sizeIndex] = GetComtrade([2018], cutOff="sendWorld",
+    adjMat, index, sizeIndex = GetComtrade([2018], cutOff="sendWorld",
                                              rowNormalize=True, removeWorld=True)
 
 #########################################################################################

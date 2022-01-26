@@ -35,7 +35,7 @@ def GetWiki(rowNormalize=True):
     sizeIndex = np.sum(wikiMatrix, axis=0)
     #print(sizeIndex)
 
-    return [wikiMatrix, index, sizeIndex]
+    return wikiMatrix, index, sizeIndex
 
 
 
@@ -151,7 +151,7 @@ def GetComtrade(years, conformationDir="import", cutOff=None, dataCombineMode="u
     sizeIndex = moneyMatrix.sum(axis=0)
 
 
-    return [moneyMatrix, index, sizeIndex]
+    return moneyMatrix, index, sizeIndex
 
 #
 # [moneyMatrix, index, sizeIndex] = GetComtrade([2018, 2016], cutOff="sendWorld")
